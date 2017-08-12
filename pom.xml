@@ -5,6 +5,7 @@
   <artifactId>PMS</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <!--Ramakrishna-->
   <modules>
   	<module>PMS_Repo</module>
   	<module>PMS_Service</module>
